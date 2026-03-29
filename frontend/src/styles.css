@@ -1,0 +1,251 @@
+body {
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+    font-family: 'Segoe UI Variable', 'Segoe UI', sans-serif;
+    margin: 0;
+    overflow: hidden;
+}
+
+.win-container {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* 1. Icon Rail */
+.icon-rail {
+    width: 48px;
+    background-color: #2b2b2b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    border-right: 1px solid #333;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+.icon:hover {
+    background: #3d3d3d;
+}
+
+.icon.active {
+    background: #10893e33;
+    color: #10893e;
+    border-left: 3px solid #10893e;
+}
+
+/* 2. Node Sidebar */
+.node-sidebar {
+    width: 180px;
+    background-color: #2b2b2b;
+    border-right: 1px solid #333;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-header {
+    padding: 12px 15px;
+    font-size: 0.85em;
+    font-weight: 600;
+    color: #888;
+    text-transform: uppercase;
+}
+
+.node-item {
+    padding: 10px 15px;
+    cursor: pointer;
+    border-left: 4px solid transparent;
+}
+
+.node-item:hover {
+    background: #3d3d3d;
+}
+
+.node-item.active {
+    background: #3d3d3d;
+    border-left-color: #10893e;
+}
+
+.node-name {
+    display: block;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.node-sub {
+    font-size: 0.75em;
+    color: #888;
+}
+
+/* 3. Performance Metric Sidebar */
+.perf-sidebar {
+    width: 200px;
+    background-color: #2b2b2b;
+    border-right: 1px solid #333;
+    overflow-y: auto;
+}
+
+.metric-item {
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.metric-item:hover {
+    background: #444;
+}
+
+.metric-item.active {
+    background: #444;
+    position: relative;
+}
+
+.metric-item.active::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #10893e;
+}
+
+.metric-preview {
+    width: 50px;
+    height: 35px;
+    background: #222;
+    border-radius: 2px;
+}
+
+.metric-info {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.m-label {
+    font-size: 0.8em;
+    font-weight: 500;
+}
+
+.m-value {
+    font-size: 0.75em;
+    color: #888;
+}
+
+/* Alert Section inside Sidebar */
+.alert-section {
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    padding: 10px;
+}
+
+.section-title {
+    font-size: 0.75em;
+    color: #888;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.alert-list {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.alert-toast {
+    font-size: 0.7em;
+    padding: 6px;
+    border-radius: 3px;
+    border-left: 3px solid #ffcc00;
+    background: #333;
+}
+
+.alert-toast.critical {
+    border-left-color: #e74c3c;
+    background: #442a2a;
+}
+
+.alert-toast.warning {
+    border-left-color: #f1c40f;
+    background: #3d3d2a;
+}
+
+.no-alerts {
+    font-size: 0.7em;
+    color: #555;
+    text-align: center;
+}
+
+/* 4. Main Content */
+.main-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background: #1f1f1f;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.content-header {
+    border-bottom: 1px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.header-title {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.header-value {
+    font-size: 0.9em;
+    color: #888;
+}
+
+.large-graph-wrapper {
+    height: 320px;
+    position: relative;
+    background-image:
+        linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 25px 25px;
+    border: 1px solid #333;
+    padding: 10px;
+}
+
+.details-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding-top: 30px;
+}
+
+.detail-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.detail-box label {
+    font-size: 0.8em;
+    color: #888;
+    margin-bottom: 2px;
+}
+
+.detail-box span {
+    font-size: 1.4em;
+    font-weight: 400;
+}

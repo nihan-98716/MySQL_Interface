@@ -1,0 +1,4 @@
+2026/03/27 13:26:20 main.go:237: ✓ Discovered new MySQL node: capstone_mysql_1 (port 3306)
+2026/03/27 13:26:20 main.go:237: ✓ Discovered new MySQL node: capstone_mysql_2 (port 3307)
+2026/03/27 14:47:13 main.go:315: [capstone_mysql_2] Docker stats error: docker stats failed: exit status 0xc000013a
+2026/03/27 14:47:13 main.go:315: [capstone_mysql_1] Docker stats error: docker stats failed: exit status 0xc000013a

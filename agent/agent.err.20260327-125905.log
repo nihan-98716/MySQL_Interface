@@ -1,0 +1,701 @@
+2026/03/27 12:59:06 main.go:237: ✓ Discovered new MySQL node: capstone_mysql_1 (port 3306)
+2026/03/27 12:59:06 main.go:237: ✓ Discovered new MySQL node: capstone_mysql_2 (port 3307)
+2026/03/27 12:59:10 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:10 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:10 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:10 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:12 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:12 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:12 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:12 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:14 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:14 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:14 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:14 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:16 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:16 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:16 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:16 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:18 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:18 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:18 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:18 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:20 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:20 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:20 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:20 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:22 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:22 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:22 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:22 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:24 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:24 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:24 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:24 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:26 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:26 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:26 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:26 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:27 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:27 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:27 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:27 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:29 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:29 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:29 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:29 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:31 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:31 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:31 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:31 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:33 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:33 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:33 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:33 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:35 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:35 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:35 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:35 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:37 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:37 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:37 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:37 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:39 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:39 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:39 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:39 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:42 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:42 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:42 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:42 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:44 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:44 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:44 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:44 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:46 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:46 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:46 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:46 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:48 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:48 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:48 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:48 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:50 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:50 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:50 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:50 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:52 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:52 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:52 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:52 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:54 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:54 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:54 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:54 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:56 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:56 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:56 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:56 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 12:59:58 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:29:58 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 12:59:58 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 12:59:58 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:00:00 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:30:00 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:00:00 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:00:00 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:20:00 logger.go:126: influxdb2client E! Write error: Post "http://127.0.0.1:8086/api/v2/write?bucket=metrics&org=capstone&precision=ns": context deadline exceeded (Client.Timeout exceeded while awaiting headers), batch kept for retrying
+2026/03/27 13:20:00 logger.go:126: influxdb2client E! Write failed (retry attempts 1): Status Code 0
+2026/03/27 13:20:00 main.go:87: InfluxDB write error: Post "http://127.0.0.1:8086/api/v2/write?bucket=metrics&org=capstone&precision=ns": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2026/03/27 13:20:03 logger.go:132: influxdb2client E! Write proc: oldest batch in retry queue expired, discarding
+2026/03/27 13:20:03 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:30:06 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:20:03 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:20:03 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:20:04 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:30:07 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:20:04 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:20:04 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:21:45 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:51:45 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:21:45 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:21:45 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:21:46 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:51:46 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:21:46 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:21:46 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:21:48 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:51:48 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:21:48 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:21:48 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:21:50 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:51:50 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:21:50 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:21:50 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:21:52 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:51:52 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:21:52 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:21:52 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:21:54 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:51:54 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:21:54 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:21:54 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:21:56 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:51:56 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:21:56 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:21:56 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:21:58 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:51:58 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:21:58 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:21:58 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:00 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:00 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:00 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:00 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:04 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:04 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:04 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:04 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:06 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:06 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:06 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:06 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:08 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:08 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:08 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:08 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:10 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:10 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:10 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:10 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:12 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:12 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:12 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:12 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:14 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:14 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:14 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:14 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:16 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:16 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:16 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:16 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:18 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:18 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:18 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:18 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:20 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:20 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:20 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:20 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:22 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:22 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:22 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:22 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:24 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:24 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:24 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:24 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:26 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:26 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:26 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:26 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:28 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:28 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:28 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:28 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:30 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:30 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:30 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:30 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:32 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:32 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:32 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:32 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:34 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:34 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:34 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:34 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:36 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:36 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:36 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:36 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:38 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:38 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:38 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:38 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:41 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:41 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:41 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:41 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:42 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:42 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:42 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:42 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:44 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:44 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:44 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:44 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:47 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:47 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:47 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:47 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:49 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:49 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:49 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:49 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:51 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:51 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:51 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:51 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:53 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:53 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:53 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:53 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:55 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:55 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:55 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:55 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:57 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:57 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:57 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:57 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:22:59 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:52:59 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:22:59 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:22:59 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:01 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:01 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:01 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:01 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:03 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:03 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:03 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:03 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:05 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:05 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:05 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:05 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:07 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:07 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:07 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:07 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:09 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:09 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:09 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:09 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:11 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:11 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:11 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:11 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:13 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:13 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:13 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:13 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:15 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:15 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:15 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:15 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:17 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:17 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:17 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:17 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:19 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:19 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:19 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:19 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:21 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:21 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:21 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:21 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:23 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:23 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:23 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:23 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:25 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:25 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:25 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:25 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:27 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:27 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:27 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:27 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:29 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:29 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:29 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:29 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:31 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:31 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:31 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:31 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:33 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:33 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:33 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:33 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:35 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:35 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:35 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:35 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:37 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:37 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:37 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:37 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:38 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:38 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:38 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:38 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:40 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:40 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:40 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:40 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:43 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:43 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:43 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:43 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:45 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:45 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:45 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:45 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:48 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:48 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:48 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:48 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:51 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:51 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:51 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:51 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:52 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:52 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:52 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:52 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:54 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:54 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:54 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:54 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:57 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:57 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:57 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:57 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:23:59 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:53:59 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:23:59 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:23:59 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:24:01 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:54:01 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:24:01 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:24:01 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:24:03 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:54:03 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:24:03 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:24:03 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:24:05 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:54:05 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:24:05 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:24:05 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:24:07 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:54:07 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:24:07 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:24:07 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:24:09 logger.go:132: influxdb2client E! Write error: unauthorized: unauthorized access
+Selected Response Headers:
+Date: Fri, 27 Mar 2026 07:54:09 GMT
+X-Influxdb-Build: OSS
+X-Influxdb-Version: v2.7.12
+2026/03/27 13:24:09 logger.go:126: influxdb2client E! Write failed (retry attempts 0): Status Code 401
+2026/03/27 13:24:09 main.go:87: InfluxDB write error: unauthorized: unauthorized access
+2026/03/27 13:24:42 main.go:315: [capstone_mysql_2] Docker stats error: docker stats failed: exit status 0xc000013a
+2026/03/27 13:24:42 main.go:315: [capstone_mysql_1] Docker stats error: docker stats failed: exit status 0xc000013a
